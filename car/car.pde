@@ -1,6 +1,6 @@
 void setup() {
   size(500, 500);
-  background(255, 255, 255);
+  background(150, 255, 255);
 }
 
 int x = 200;
